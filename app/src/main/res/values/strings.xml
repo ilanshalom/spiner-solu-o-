@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Conversor</string>
+
+    <string-array name="itenstempo">
+        <item>ms</item>
+        <item>seg</item>
+        <item>min</item>
+        <item>hora</item>
+        <item>dia</item>
+    </string-array>
+
+    <string-array name="itenstemperatura">
+        <item>celsius</item>
+        <item>farenheit</item>
+        <item>kelvin</item>
+    </string-array>
+
+</resources>
